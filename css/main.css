@@ -98,8 +98,9 @@ img:nth-child(5) {
 }
 
 @media only screen and (min-width: 90em) {
+
   img {
-   display: block;
+    display: block;
   }
 
 }
